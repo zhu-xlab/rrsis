@@ -1,0 +1,16 @@
+requests
+filelock
+tqdm
+timm
+mmcv-full
+mmsegmentation==0.17.0
+ftfy
+einops
+regex
+scipy
+scikit-image
+pycocotools
+opencv-python==4.5.3.56
+tokenizers==0.8.1rc1
+h5py
+
