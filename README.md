@@ -18,8 +18,8 @@ Some visualization examples of the dataset:
 @article{yuan2023rrsis,
   title={RRSIS: Referring Remote Sensing Image Segmentation},
   author={Yuan, Zhenghang and Mou, Lichao and Hua, Yuansheng and Zhu, Xiao Xiang},
-  journal={arXiv preprint arXiv:2306.08625},
-  year={2023}
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024}
 }
 ```
 
