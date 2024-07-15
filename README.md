@@ -9,7 +9,7 @@ The RefSegRS dataset in the paper "RRSIS: Referring Remote Sensing Image Segment
 Some visualization examples of the dataset:
 
 ![image](https://github.com/zhu-xlab/rrsis/blob/main/rrsis.png)
-
+![image](https://github.com/zhu-xlab/rrsis/blob/main/data_hf.png)
 
 ### If you find it useful, please kindly cite our paper.
 
